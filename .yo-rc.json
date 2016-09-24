@@ -1,0 +1,27 @@
+{
+  "generator-mocha": {
+    "ui": "bdd",
+    "rjs": false
+  },
+  "generator-fountain-angular2": {
+    "version": "1.0.0-rc1",
+    "props": {
+      "framework": "angular2",
+      "modules": "systemjs",
+      "js": "typescript",
+      "ci": [
+        "circleci"
+      ],
+      "css": "css",
+      "resolved": "/Users/andras/.nvm/versions/node/v4.5.0/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-angular2/generators/app/index.js",
+      "namespace": "fountain-angular2",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  }
+}
